@@ -13,3 +13,8 @@ qemu:
 	kernel/target/x86_64-blog_os/debug/boot-bios-blog_os.img
 
 setup:
+	rustup component add llvm-tools-preview
+	rustup component add rust-src 
+	rustup override set nightly 
+	git submodule init
+	git submodule update
