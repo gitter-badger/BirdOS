@@ -1,7 +1,6 @@
 all : kbuild krun qemu
 kbuild:
 	cd kernel 
-	cargo kbuild
 krun:
 	
 	cargo krun
