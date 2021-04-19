@@ -4,3 +4,9 @@ BirdOS  to system operacyjny stworzony dla hobbi i nauki na podstawie [BlogOS](h
 # DEMO
 Poniżej znajdziesz screen widoku z aktualnej wersji systemu:
 ![DEMO SCREEN](../demo/DEMO.png)
+
+# DOKUMENTACJA
+
+
+
+# LICENCJONOWANIE
