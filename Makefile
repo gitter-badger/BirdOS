@@ -1,10 +1,9 @@
 all : kbuild krun qemu
 kbuild:
-	echo COMPILING KERNEL
 	cd kernel 
 	cargo kbuild
 krun:
-	echo COMPILING BOOTLOADER
+	
 	cargo krun
 	cd ..
 	
