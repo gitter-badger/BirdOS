@@ -15,5 +15,5 @@ Below you will find screen view of the current version of the system:
 - [CONTRIBUTING.md](./CONTRIBUTING.md) - Information about how to contribute to the project 
 
 # LICENSING
-Besides the `bootloader` submodule which is licensed under its own license, ( You can read more [here](https://github.com/rust-osdev/bootloader) ) the project is licensed under the [MIT LICENSE](./LICENSE)
+Besides the **bootloader** submodule which is licensed under its own license, ( You can read more [here](https://github.com/rust-osdev/bootloader) ) the project is licensed under the [MIT LICENSE](./LICENSE)
 # REFERENCES 
