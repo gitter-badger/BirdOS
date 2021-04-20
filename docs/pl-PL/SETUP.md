@@ -8,5 +8,5 @@ Aby zbudować BirdOS potrzebujesz
  - [Vsual Studio Build Tools](https://visualstudio.microsoft.com/pl/visual-cpp-build-tools/)
  - [Git](http://git-scm.com/)
  
-
+ Potem trzeba skonfigurować `git` według [dokumentacji](http://git-scm.com/) a następnie w  Wierszu Poleceń uruchom polecenie ```setup.bat``` To polecenie przygotuje twoje środowisko do zbudowania BirdOS. A po zakończonej konfiguracji możesz uruchomić polecenie ```compile.bat```
 
