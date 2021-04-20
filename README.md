@@ -1,6 +1,7 @@
 # BirdOS
-<img src="./docs/other/logo.png" width = 400 height = 400>
-
+<p align="center">
+<img src="./docs/other/logo.png" width = 400 height = 400  >
+</p>
 BirdOS is an operating system developed for hobbies and science based on [BlogOS](https://github.com/phil-opp/blog_os) by Philipp Oppermann. BirdOS is a very simple system so it should not be considered as a full fledged operating system. Currently BirdOS is under heavy development so both the system and the documentation is not perfect and not everything will always work.
 
 # DEMO
