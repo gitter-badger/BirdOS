@@ -5,7 +5,7 @@ BirdOS is an operating system developed for hobbies and science based on [BlogOS
 
 # DEMO
 Below you will find screen view of the current version of the system:
-![DEMO SCREEN](../demo/DEMO.png)
+![DEMO SCREEN](./docs/demo/DEMO.png)
 
 # DOCUMENTATION
 
