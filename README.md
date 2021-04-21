@@ -1,4 +1,7 @@
 # BirdOS
+
+[![Join the chat at https://gitter.im/birdos-community/community](https://badges.gitter.im/birdos-community/community.svg)](https://gitter.im/birdos-community/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <p align="center">
 <img src="./docs/other/logo.png" width = 400 height = 400  >
 </p>
